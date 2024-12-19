@@ -1,21 +1,20 @@
 # Master Index
 
-<div style="display: flex; flex-direction: column;">
+This master index is a list of all the different indexes on GitHub which link to GitHub projects, documentation, and other projects.
 
-## Data Projects Index
+<br>
 
-<a href="https://github.com/danielrosehill/Data-Projects-Index" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">View Data Projects Index</a>
+[![Data Projects Index](https://img.shields.io/badge/Data%20Projects%20Index-4CAF50?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Data-Projects-Index)
 
-## Docs Index
+<br>
 
-<a href="https://github.com/danielrosehill/My-Docs-Index" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">View Docs Index</a>
+[![Docs Index](https://img.shields.io/badge/Docs%20Index-007BFF?style=for-the-badge&logo=github)](https://github.com/danielrosehill/My-Docs-Index)
 
+<br>
 
-## Github Repository Index
+[![Github Repository Index](https://img.shields.io/badge/Github%20Repo%20Index-9c27b0?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Repo-Index)
 
-<a href="https://github.com/danielrosehill/Github-Repo-Index" style="display: inline-block; padding: 10px 20px; background-color: #9c27b0; color: white; text-decoration: none; border-radius: 5px;">View Github Repository Index</a>
-
-</div>
+<br>
 
 ## Author
 
