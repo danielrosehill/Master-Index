@@ -1,4 +1,4 @@
-# Master Index 📑
+# Daniel Rosehill Github - Master Index 📑
 
 A comprehensive collection of GitHub indexes linking to various projects, documentation, and resources.
 
