@@ -4,10 +4,10 @@ A comprehensive collection of GitHub indexes linking to various projects, docume
 
 ## Indexes
 
-[![Data Projects Index](https://img.shields.io/badge/Data%20Projects%20Index-4CAF50?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Data-Projects-Index)
-[![Docs Index](https://img.shields.io/badge/Docs%20Index-007BFF?style=for-the-badge&logo=github)](https://github.com/danielrosehill/My-Docs-Index)
-[![Github Repository Index](https://img.shields.io/badge/Github%20Repo%20Index-9c27b0?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Repo-Index)
-[![AI Generated Projects](https://img.shields.io/badge/AI%20Generated%20Projects-FF5722?style=for-the-badge&logo=github)](https://github.com/danielrosehill/AI-Generated-Projects-Index)
+[![Data Projects Index](https://img.shields.io/badge/Data%20Projects%20Index-4CAF50?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Data-Projects-Index)  
+[![Docs Index](https://img.shields.io/badge/Docs%20Index-007BFF?style=for-the-badge&logo=github)](https://github.com/danielrosehill/My-Docs-Index)  
+[![Github Repository Index](https://img.shields.io/badge/Github%20Repo%20Index-9c27b0?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Repo-Index)  
+[![AI Generated Projects](https://img.shields.io/badge/AI%20Generated%20Projects-FF5722?style=for-the-badge&logo=github)](https://github.com/danielrosehill/AI-Generated-Projects-Index)  
 [![AI Assistants](https://img.shields.io/badge/AI%20Assistants-2196F3?style=for-the-badge&logo=github)](https://github.com/danielrosehill/LLM-Assistants-Web-Library)
 
 ## Overview
